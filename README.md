@@ -1,6 +1,6 @@
 # Offensive Security Roadmap
 
-A structured, beginner-friendly path into offensive security and penetration testing — built for AEC Coding Club members who want to go from zero to their first CTF, box, or bug bounty.
+A structured, beginner-friendly path into offensive security and penetration testing — built for AEC Coding Club members who want to go from zero to their first CTF, box, or bug bounty. Please note that the scope of this journey is strictly confined to ethics which includes finding security flaws, vulnerabilities and exploiting them with given authority. Seeking out of the scope is a punishable offense and you might attract someone you don't want.
 
 ## Why this exists
 
