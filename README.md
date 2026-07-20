@@ -16,10 +16,11 @@ I'm currently working towards the **CPTS (Certified Penetration Testing Speciali
 
 | Folder | What you'll find |
 |---|---|
-| [`01-roadmap/`](./01-roadmap) | A phase-by-phase learning path from fundamentals to certifications |
-| [`02-cheatsheets/`](./02-cheatsheets) | Practical, no-fluff command references for recon, web attacks, privesc, and AD |
-| [`03-writeups/`](./03-writeups) | Documented walkthroughs of HTB/THM machines with methodology and lessons learned |
-| [`04-labs/`](./04-labs) | How to set up your own home pentesting lab |
+| [`01-introduction/`](./01-introduction) | Some terms to know before starting this journey |
+| [`02-roadmap/`](./02-roadmap) | A phase-by-phase learning path from fundamentals to certifications |
+| [`03-cheatsheets/`](./03-cheatsheets) | Practical, no-fluff command references for recon, web attacks, privesc, and AD |
+| [`04-writeups/`](./04-writeups) | Documented walkthroughs of HTB/THM machines with methodology and lessons learned |
+| [`05-labs`](./05-labs) | How to set up your own home pentesting lab |
 | [`resources.md`](./resources.md) | Curated list of free tools, courses, and rooms that actually helped |
 
 ## Who this is for
