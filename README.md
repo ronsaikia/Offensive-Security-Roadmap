@@ -1,6 +1,6 @@
 # Offensive Security Roadmap
 
-A structured, beginner-friendly path into offensive security and penetration testing — built for [Club Name] members who want to go from zero to their first CTF, box, or bug bounty.
+A structured, beginner-friendly path into offensive security and penetration testing — built for AEC Coding Club members who want to go from zero to their first CTF, box, or bug bounty.
 
 ## Why this exists
 
@@ -11,9 +11,6 @@ This isn't a finished product — it's a living document I'll keep expanding as 
 ## About me
 
 I'm currently working towards the **CPTS (Certified Penetration Testing Specialist)** certification from HackTheBox, focused on offensive security — web exploitation, Active Directory attacks, and privilege escalation. This repo documents both my own learning and resources I wish existed when I started.
-
-- HackTheBox profile: [link]
-- TryHackMe profile: [link]
 
 ## What's inside
 
