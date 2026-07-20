@@ -10,7 +10,7 @@ This isn't a finished product — it's a living document I'll keep expanding as 
 
 ## About me
 
-I'm currently working towards the **CPTS (Certified Penetration Testing Specialist)** certification from HackTheBox, focused on offensive security — web exploitation, Active Directory attacks, and privilege escalation. This repo documents both my own learning and resources I wish existed when I started.
+I'm Chiranjib Saikia aka Chiron, a 3rd sem EE student at AEC and I'm currently working towards the **CPTS (Certified Penetration Testing Specialist)** certification from HackTheBox, focused on offensive security — web exploitation, Active Directory attacks, and privilege escalation. This repo documents both my own learning and resources I wish existed when I started. It all starts with the Linux OS and most specifically Kali Linux, loaded with 500+ penetration tools but again, Kali is a loaded gun, you need to know how to handle it and make the most out of it. As a hacker, you must know how machines talk to each other and what changes their daily routines which helps to identify major security flaws. Offensive security will consume your time and demand your patience, but having the right mindset turns that effort into mastery. Put in the hours, trust the journey, and the payoff in the end is worth every single sacrifice.
 
 ## What's inside
 
